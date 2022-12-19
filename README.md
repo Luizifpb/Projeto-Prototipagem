@@ -1,5 +1,5 @@
-# Projeto-Prototipagem
-<h2>Projeto de um mililab para aprendizado de eletrônica usando a placa franzininho wifi<h2>
+# Projeto-Prototipagem 2022.2
+<h2>Projeto com o intuito de prototipar um mini laboratório de sistemas digitais<h2>
 
 <h1>Arquivos do Projeto<h1>
 <h3><a href="https://github.com/Luizifpb/Projeto-Prototipagem/tree/main/Documenta%C3%A7%C3%A3o%20do%20projeto">Documentação do Projeto</a></h3>
