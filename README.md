@@ -2,7 +2,7 @@
 <h2>Projeto com o intuito de prototipar um mini laboratório de sistemas digitais<h2>
 
 <h1>Arquivos do Projeto<h1>
-<h3><a href="https://github.com/Luizifpb/Projeto-Prototipagem/tree/main/Documenta%C3%A7%C3%A3o%20do%20projeto">Documentação do Projeto</a></h3>
+<h2><a href="https://github.com/Luizifpb/Projeto-Prototipagem/tree/main/Documenta%C3%A7%C3%A3o%20do%20projeto">Documentação do Projeto</a></h2>
 <h3><a href="https://github.com/Luizifpb/Projeto-Prototipagem/tree/main/Diagrama%20de%20bloco">Diagrama de Blocos</a></h3>
 <h3><a href="https://github.com/Luizifpb/Projeto-Prototipagem/tree/main/Esquem%C3%A1tico%20do%20circuito%20el%C3%A9trico">Diagrama Esquemático</a></h3>
 <h3><a href="https://github.com/Luizifpb/Projeto-Prototipagem/tree/main/Layout%20da%20PCB">Layout da PCB</a></h3>
